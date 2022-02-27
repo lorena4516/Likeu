@@ -15,7 +15,8 @@
     cd C:\xampp\htdocs\proyecto-likeu   
 6. Cuando se esté en la ruta, se debe instalar los complementos de composer(dependencias del proyecto), con el siguiente comando:
     composer install 
-7. Para finalizar se iniciar el proyecto, ejecutando el comando: php artisan serv
+7. Para finalizar se inicia el proyecto, ejecutando el comando: php artisan serv
 8. Para el consumo de las APIS, se utilizó POSTMAN
-    8.1 En el archivo zip, se encuentra otro zip con los archivos a implementar en postman y realizar las respectivas pruebas
+    8.1 En el archivo zip, se encuentra un archivo json con los archivos a implementar en postman y realizar las respectivas pruebas
+    8.2 Ingresar a postman y buscar opcion "import", y seleccionar el archivo json y luego en Upload Files
     
